@@ -1,0 +1,1 @@
+Thsi project is created to demonstrate how to create tests. In this project you will find End-to-End test, unit tests and integration tests that all work together to prove that the mortgage calculator is working and passing all the tests.
